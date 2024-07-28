@@ -1,5 +1,7 @@
 # inventory-backend
 
+[frontend](https://github.com/dsabljic/inventory-management-system-frontend)
+
 ## Getting started
 
 1. Generating SSL certificate
