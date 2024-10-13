@@ -1,4 +1,4 @@
-# inventory-backend
+# inventory-management-system-backend
 
 [frontend](https://github.com/dsabljic/inventory-management-system-frontend)
 
@@ -15,6 +15,6 @@ cd backend
 echo -e "KEYSTORE_PASSWORD=your_keystore_password\nDB_PASSWORD=your_db_password" > .env
 ```
 
-## ERA model
+## ER diagram
 
 ![Screenshot from 2024-07-17 15-57-23](https://github.com/user-attachments/assets/e4f20af9-39de-4f3b-a7cb-3209604aa71c)
