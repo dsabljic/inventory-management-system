@@ -35,6 +35,15 @@ This is a full-stack web application built with Spring Boot for the backend and 
    ```shell
    echo -e "KEYSTORE_PASSWORD=your_keystore_password\nDB_PASSWORD=your_db_password" > .env
    ```
+3. **Database:**
+
+If you take a look at the `application.properties` file you'll see the following config:
+
+```properties
+spring.datasource.url=jdbc:postgresql://localhost:5432/inventory
+```
+
+so you'll need to make sure that the database with the appropriate name exists and update the database credentials accordingly.
 
 ## ER diagram
 
