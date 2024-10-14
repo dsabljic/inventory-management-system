@@ -2,7 +2,7 @@
 
 [frontend](https://github.com/dsabljic/inventory-management-system-frontend)
 
-This is a full-stack web application built with Spring Boot for the backend and React for the frontend, designed to manage the inventory of rentable items and desks across different rooms.
+This is a full stack web application built with Spring Boot for the backend and React for the frontend, designed to manage the inventory of rentable items and desks across different rooms.
 
 ## Features:
 - **User Authentication:** JWT-based authentication with the ability for users to sign up, sign in, and reset their password via email verification.
