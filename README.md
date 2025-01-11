@@ -24,12 +24,12 @@ This is a full stack web application built with Spring Boot for the backend and 
 
 ## Getting Started
 
-1. **Generating SSL Certificate:**
+1. **Generating a self-signed SSL certificate:**
    ```shell
    keytool -genkeypair -alias inventoryapi -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore keystore.p12 -validity 3650
    ```
 
-2. **Saving Keystore and Database Password:**
+2. **Saving keystore and database password:**
 
    `cd` into `src/main/resources` and run the following command
    ```shell
